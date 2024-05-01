@@ -1,1 +1,3 @@
+git init
 git remote add orgin atlas-zero_day
+git pull
